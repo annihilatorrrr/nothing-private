@@ -204,11 +204,22 @@ Special thanks to these rockstars:
  </a>
 
 * **JetBrains** for sponsoring the Open Source License to my favourite IDE WebStorm:
+<a href="https://jb.gg/OpenSource" target="_blank">
+  <picture>
+    <source
+    srcset="https://github.com/user-attachments/assets/dd448785-d28d-4f01-9c66-c924ee65ee00"
+    media="(prefers-color-scheme: dark)"
+    alt="Jetbrains Logo"
+    width="300px"
+    />
+    <img
+    src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg"
+    alt="Jetbrains Logo"
+    width="300px"
+    />
+  </picture>
+</a>
  
- <a href="https://www.jetbrains.com/?from=SOCLI" target="_blank">
- <img src="https://user-images.githubusercontent.com/8397274/72133518-a6d8c300-33a7-11ea-8979-659b248ca1a2.png" width="200">
- </a>
-
 * [33giga.com.br](https://33giga.com.br/)  for the [blog post](https://33giga.com.br/site-prova-que-janela-anonima-nao-e-sigilosa-veja-como-navegar-sem-deixar-vestigios-na-rede/).
 * Thanks to everyone who [tweeted](https://www.google.co.in/search?q=intext%3Anothingprivate.ml+site%3Atwitter.com) about this.
 * Thanks to TechCycle for this [demo video](https://www.youtube.com/watch?v=R_Dbu0BSjus).
